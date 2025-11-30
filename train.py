@@ -87,3 +87,4 @@ Path("models/saved_models").mkdir(parents=True, exist_ok=True)
 torch.save(model.state_dict(), "models/saved_models/binding_model.pt")
 print("\n✅ Model saved to models/saved_models/binding_model.pt")
 print("="*60 + "\n")
+
