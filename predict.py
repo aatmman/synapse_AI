@@ -181,3 +181,4 @@ if __name__ == "__main__":
     ]
     results = predict_with_confidence_ranking(proteins, smiles)
     print("Results:", results)
+
