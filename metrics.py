@@ -18,3 +18,4 @@ def pKd_to_DeltaG(pKd, temperature=298):
     Kd_M = 10 ** (-pKd)
     deltaG = -R * temperature * np.log(Kd_M)
     return deltaG  # Joules/mole
+
