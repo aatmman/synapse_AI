@@ -186,3 +186,4 @@ This project is developed for educational and research purposes in drug discover
 ---
 
 **Synapse.AI** - Accelerating drug discovery through AI-powered binding prediction and molecular analysis.
+
