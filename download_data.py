@@ -34,3 +34,4 @@ df.to_csv('data/raw/davis.csv', index=False)
 print(f"✅ Saved {len(df)} samples to data/raw/davis.csv")
 print(f"Kd range: {df['Kd_nM'].min():.1f} - {df['Kd_nM'].max():.1f} nM")
 
+
